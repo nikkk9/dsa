@@ -1,10 +1,10 @@
 public class P2 {
-
     // Missing number in array
     // Input:
     // N = 5
     // A[] = {1,2,3,5}
     // Output: 4
+
     int MissingNumber(int array[], int n) {
         // Your Code Here
 
